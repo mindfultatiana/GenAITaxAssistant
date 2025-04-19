@@ -19,4 +19,4 @@ Applied agentic AI and function calling.
 Applied structured output and generative AI evaluation.
 
 ## Gen AI Tax Assistant Process
-![Gen AI Tax Assistant Model Flow Chart](<Gen AI Tax Assistant-1.png>)
+![Gen AI Tax Assistant Flow Chart](<Gen AI Tax Assistant-1.png>)
