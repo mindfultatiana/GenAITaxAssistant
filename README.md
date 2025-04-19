@@ -1,7 +1,9 @@
 # Tax Assistant Google Gen AI Capstone
 This is the Pacific Engineer of AI capstone group project for the Google Gen AI Intensive Course.
 
-The blog article that describes the project is [HERE](https://tatianamathis.substack.com/p/building-a-generative-ai-tax-estimator)
+The blog article that describes the project on Substack is [HERE](https://tatianamathis.substack.com/p/building-a-generative-ai-tax-estimator)
+
+The live Kaggle notebook is [HERE](https://www.kaggle.com/code/mindfultatiana/genaitaxassistant)
 
 ## Jupyter Notebook Outline
 We outlined the notebook into four modules. Each incorporates technology we learned from the class. Structured output while mentioned in Module 4 is demonstrated in multiple places.
