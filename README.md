@@ -6,17 +6,17 @@ The blog article that describes the project is [HERE](https://tatianamathis.subs
 ## Jupyter Notebook Outline
 We outlined the notebook into four modules. Each incorporates technology we learned from the class. Structured output while mentioned in Module 4 is demonstrated in multiple places.
 
-- Module 1: Estimate Tax Using Similarity Search
-Applied embeddings and function calling.
+### Module 1: Estimate Tax Using Similarity Search
+- Applied embeddings and function calling.
 
-- Module 2: Tax Assistant Prompting
-Applied few-shot prompting.
+### Module 2: Tax Assistant Prompting
+- Applied few-shot prompting.
 
-- Module 3: A Conversational Tax Agent
-Applied agentic AI and function calling.
+### Module 3: A Conversational Tax Agent
+- Applied agentic AI and function calling.
 
-- Module 4: Incomplete Data Generation and Filling
-Applied structured output and generative AI evaluation.
+### Module 4: Incomplete Data Generation and Filling
+- Applied structured output and generative AI evaluation.
 
 ## Gen AI Tax Assistant Process
 ![Gen AI Tax Assistant Flow Chart](<Gen AI Tax Assistant-1.png>)
