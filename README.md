@@ -1,4 +1,4 @@
-# Gen AI Tax Assistant Google Intensive Course Capstone
+# Gen AI Tax Assistant
 This is the Pacific Engineers of AI capstone group project for the Google Gen AI Intensive Course.
 
 ### Pacific Engineers of AI Group Members: 
